@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-my-plugins",
+  "name": "Obsidian My Plugins",
+  "description": "Translate the input via web api calls and return it for insertion into the document.",
+  "author": "qingjin",
+
+  "minAppVersion": "0.11.0",
+  "version": "0.0.1"
+}
